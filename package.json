@@ -11,5 +11,8 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "ggonmar@gmail.com"
+  "author": "ggonmar@gmail.com",
+  "devDependencies": {
+    "mochawesome": "^6.2.1"
+  }
 }

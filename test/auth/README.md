@@ -1,4 +1,4 @@
-## Authentication Test Plan
+## Authentication Test Set
 
 ### AUTH_01
 #### As a user, I want to be able to authenticate myself against the API
